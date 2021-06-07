@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lYEU0yil3Db4bZrlfN4w0cE5rde0PQ80o88b9igTBZAubv5pquo1kmVoutT/KBwDQ5jcZHXAxSIaIFWoVrZvvQ==",
+  "dgSpecHash": "RnVQ98GKmVnem3yZrr2M3nkMHdl2lLktDOodszi1iE9IQep6Ee/pQo27TdQV60dI7yIuvRSYL4ExHdpYRNuAzA==",
   "success": true,
   "projectFilePath": "D:\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rafal\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Rafal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rafal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rafal\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.6\\microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
@@ -38,7 +40,8 @@
     "C:\\Users\\Rafal\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Rafal\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Rafal\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\Rafal\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\Rafal\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,4 +1,3 @@
-D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
 D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
 D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
@@ -13,3 +12,4 @@ D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
 D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
 D:\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
 D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache

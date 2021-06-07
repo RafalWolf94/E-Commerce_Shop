@@ -11,7 +11,6 @@ D:\skinet\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\skinet\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
 D:\skinet\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
 D:\skinet\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
 D:\skinet\API\obj\Debug\net5.0\API.AssemblyInfo.cs
@@ -59,3 +58,6 @@ D:\skinet\API\bin\Debug\net5.0\Core.dll
 D:\skinet\API\bin\Debug\net5.0\Infrastructure.dll
 D:\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
 D:\skinet\API\bin\Debug\net5.0\Core.pdb
+D:\skinet\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\skinet\API\bin\Debug\net5.0\AutoMapper.dll
+D:\skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

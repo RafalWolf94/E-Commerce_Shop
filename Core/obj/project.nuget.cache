@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ma0lpN/KOePUX1LAeYQJkIR/uJjEnN52tIy2GctN8E20k2sGBYY3QIFElNR+7r0BrfP3po1vh/DXd/rImJCL0A==",
+  "dgSpecHash": "X7ybYtBZ0FS2a51hL7SBtYv2nUyUoyEDSU0T0xUQefvl/MVcufuBmAam+X/0+gd+Xe71qysFbYJONKCRA3JQeQ==",
   "success": true,
   "projectFilePath": "D:\\skinet\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafal\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rafal\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

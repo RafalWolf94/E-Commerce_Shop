@@ -2,7 +2,6 @@ D:\skinet\Core\bin\Debug\net5.0\Core.deps.json
 D:\skinet\Core\bin\Debug\net5.0\Core.dll
 D:\skinet\Core\bin\Debug\net5.0\ref\Core.dll
 D:\skinet\Core\bin\Debug\net5.0\Core.pdb
-D:\skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
 D:\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
 D:\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
@@ -10,3 +9,4 @@ D:\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
 D:\skinet\Core\obj\Debug\net5.0\Core.dll
 D:\skinet\Core\obj\Debug\net5.0\ref\Core.dll
 D:\skinet\Core\obj\Debug\net5.0\Core.pdb
+D:\skinet\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
