@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using API.Dto;
+using API.Error;
 using AutoMapper;
 using Core.Entities;
 using Core.Interfaces;
@@ -32,6 +33,8 @@ namespace API.Controllers
             var spec = new ProductsWithTypesAndBrandsSpecification();
             var products = await ProductsRepo.ListAsync(spec);
 
+          
+
             return Ok(Mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(products));
         }
 
@@ -40,6 +43,8 @@ namespace API.Controllers
         {
             var spec = new ProductsWithTypesAndBrandsSpecification(id);
             var product = await ProductsRepo.GetEntityWithSpec(spec);
+            
+            if (product is null) return NotFound(new ApiResponse(404));
 
             return Mapper.Map<Product, ProductToReturnDto>(product);
         }   

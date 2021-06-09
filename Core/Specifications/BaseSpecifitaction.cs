@@ -7,7 +7,7 @@ namespace Core.Specifications
     public class BaseSpecifitaction<T> : ISpecification<T>
     {
         public Expression<Func<T, bool>> Criteria { get; }
-        public List<Expression<Func<T, object>>> Includes { get; } = new List<Expression<Func<T, object>>>();
+        public List<Expression<Func<T, object>>> Includes { get; } = new();
 
         public BaseSpecifitaction()
         {
