@@ -1,11 +1,10 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { ShopComponent } from './shop.component';
-import { ProductItemComponent } from './product-item/product-item.component';
+import {NgModule} from '@angular/core';
+import {CommonModule} from '@angular/common';
+import {ShopComponent} from './shop.component';
+import {ProductItemComponent} from './product-item/product-item.component';
 import {SharedModule} from "../shared/shared.module";
-import { ProductDetailsComponent } from './product-details/product-details.component';
-import {RouterModule} from "@angular/router";
-
+import {ProductDetailsComponent} from './product-details/product-details.component';
+import {ShopRoutingModule} from "./shop-routing.module";
 
 
 @NgModule({
@@ -14,13 +13,11 @@ import {RouterModule} from "@angular/router";
     ProductItemComponent,
     ProductDetailsComponent
   ],
-  exports: [
-    ShopComponent
-  ],
   imports: [
     CommonModule,
     SharedModule,
-    RouterModule
+    ShopRoutingModule
   ]
 })
-export class ShopModule { }
+export class ShopModule {
+}
