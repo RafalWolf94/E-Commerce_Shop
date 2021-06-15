@@ -23,7 +23,7 @@ namespace API.Controllers
             }
             return Ok();
         }
-        [HttpGet("server error")]
+        [HttpGet("servererror")]
         public ActionResult GetServerError
             ()
         {
