@@ -7,6 +7,7 @@ import {HTTP_INTERCEPTORS, HttpClientModule} from "@angular/common/http";
 import {CoreModule} from "./core/core.module";
 import {HomeModule} from "./home/home.module";
 import {ErrorInterceptor} from "./core/interceptors/error.interceptor";
+import {NgxSpinnerModule} from "ngx-spinner";
 
 
 @NgModule({
@@ -20,7 +21,7 @@ import {ErrorInterceptor} from "./core/interceptors/error.interceptor";
     HttpClientModule,
     CoreModule,
     HomeModule,
-
+    NgxSpinnerModule
   ],
   providers: [
     {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true}
